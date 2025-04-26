@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huraira Jaffery</h1>
 <h3 align="center">Aspiring tech enthusiast with a passion for computer programming, websites, and all things tech, on a mission to bring innovative ideas to life in the digital realm.</h3>
 
-- 🌱 I’m currently learning **Javascript, Node.JS, React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/darkjaffs](https://github.com/darkjaffs)
 
 - 📫 How to reach me **hurairajaffs2003@gmail.com**
